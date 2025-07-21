@@ -2,7 +2,9 @@
 
 **`Desenvolvedora em Produção`**
 
-Me chamo Julie Monet, sou natural de São Paulo. Atualmente, estou cursando Engenharia Ambeital na UFABC, mas navegando pela área de programação. Sou apaixonada por tecnologia e posso ser encontrada por outros canais "[Links](http://linktr.ee/juliemonet)".
+Me chamo Julie Monet, sou natural de São Paulo. Atualmente, estou cursando Engenharia Ambeital na UFABC, mas navegando pela área da programação. Sou apaixonada por tecnologia e posso ser encontrada por outros lugares em "[Jumentalista](http://linktr.ee/juliemonet)".
+
+
 <p align="left">
     <a
         />
@@ -12,7 +14,7 @@ Me chamo Julie Monet, sou natural de São Paulo. Atualmente, estou cursando Enge
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
             src="https://custom-icon-badges.demolab.com/github/stars/Julie-Monet?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
+        a/>
     </a>
     <a href="https://github.com/Julie-Monet?tab=followers">
         <img 
@@ -20,7 +22,7 @@ Me chamo Julie Monet, sou natural de São Paulo. Atualmente, estou cursando Enge
             title="Me siga no GitHub" 
             src="https://custom-icon-badges.demolab.com/github/followers/Julie-Monet?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
-            <a href="www.linkedin.com/in/julie-monet-santos-silva-2171232b">
+            <a href="https://www.linkedin.com/in/julie-monet-santos-silva-2171232b0/">
         <img 
             alt="LinkedIn" 
             title="Veja o Meu Currículo" 
@@ -77,3 +79,5 @@ Me chamo Julie Monet, sou natural de São Paulo. Atualmente, estou cursando Enge
   />
 
 </p>
+
+#abandonai a esperança todos que aqui entratem
