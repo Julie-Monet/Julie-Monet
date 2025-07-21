@@ -27,7 +27,8 @@ Me chamo Julie Monet, sou natural de São Paulo. Atualmente, estou cursando Enge
             src="https://img.shields.io/badge/LinkedIn-8A2BE2
             "
         />
-   
+        
+        
 </p>
 
 ---
