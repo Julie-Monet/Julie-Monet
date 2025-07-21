@@ -20,7 +20,14 @@ Me chamo Julie Monet, sou natural de São Paulo. Atualmente, estou cursando Enge
             title="Me siga no GitHub" 
             src="https://custom-icon-badges.demolab.com/github/followers/Julie-Monet?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
-    </a>
+            <a href="www.linkedin.com/in/julie-monet-santos-silva-2171232b">
+        <img 
+            alt="LinkedIn" 
+            title="Veja o Meu Currículo" 
+            src="https://custom-icon-badges.demolab.com/badge/LinkedIn-pink.svg?logo=paintbrush&logoColor=white
+            "
+        />
+   
 </p>
 
 ---
